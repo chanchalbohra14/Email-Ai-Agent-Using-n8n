@@ -40,6 +40,15 @@ This project is an **AI-driven Email Agent** that listens for incoming chat mess
 3. Simple Memory keeps track of ongoing conversations
 4. Gmail node sends the AI-generated reply to the user
 
+---
+
+## 📺 Demo
+
+> 📹 *You can find a demo video on my [LinkedIn profile](https://www.linkedin.com/in/chanchal-kumari-219aba335/).*
+>
+
+---
+
 ## 🏷️ Tags
 
 `#AI` `#n8n` `#EmailAgent` `#Automation` `#OpenAI` `#GmailAPI` `#NoCode` `#WorkflowAutomation`
