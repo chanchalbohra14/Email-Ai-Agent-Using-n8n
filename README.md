@@ -44,11 +44,5 @@ This project is an **AI-driven Email Agent** that listens for incoming chat mess
 
 ## 📺 Demo
 
-> 📹 *You can find a demo video on my [LinkedIn profile](https://www.linkedin.com/in/chanchal-kumari-219aba335/).*
->
-
----
-
-## 🏷️ Tags
-
-`#AI` `#n8n` `#EmailAgent` `#Automation` `#OpenAI` `#GmailAPI` `#NoCode` `#WorkflowAutomation`
+> 📹 *You can watch a demo video of the project in action on [this LinkedIn post](https://www.linkedin.com/posts/chanchal-kumari-219aba335_ai-n8n-automation-activity-7341064731912232962-3-4q?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFRYx7UBK5hZk8wZseS4vYVgWgFZCllXc-w).*
+> 
